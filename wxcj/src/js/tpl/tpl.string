@@ -1,0 +1,33 @@
+<div class="swiper-container">
+	    <div class="swiper-wrapper">
+	        <div class="swiper-slide one">
+	        	<div class="one1 ani" swiper-animate-effect="zoomIn" swiper-animate-duration="1s" swiper-animate-delay="0s"><img src="img/1.png" alt="" style="width:100%;"/></div>
+	        	<div class="one2 ani" swiper-animate-effect="zoomIn" swiper-animate-duration="1s" swiper-animate-delay="1s"><img src="img/2.png" alt="" style="width:100%;"/></div>
+	        	<div class="one3 ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="0.5s" swiper-animate-delay="0s"><img src="img/3.png" alt="" style="width:100%;"/></div>
+	        	<div class="one-jianli ani" swiper-animate-effect="bounceInDown" swiper-animate-duration="1s" swiper-animate-delay="1.5s"><p>个人简历</p></div>
+	        	<div class="one-jianli1 ani" swiper-animate-effect="bounceInUp" swiper-animate-duration="1s" swiper-animate-delay="2.5s"><p>Resune</p></div>
+	        	<div class="one-name ani" swiper-animate-effect="fadeInDown" swiper-animate-duration="0.5s" swiper-animate-delay="3.5s"><p>苏相</p></div>
+	        </div>
+	        <div class="swiper-slide two">
+	        	<div class="two1 ani" swiper-animate-effect="slideInDown" swiper-animate-duration="0.5s" swiper-animate-delay="0s"><img src="img/2-1.png" alt="" style="width:100%;"/></div>
+	        	<div class="two-name ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="0.5s" swiper-animate-delay="0.5s"><p>苏相</p></div>
+	        	<div class="two-site ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="0.5s" swiper-animate-delay="0.5s"><p>山西</p></div>
+	        	<div class="two-motto1 ani" swiper-animate-effect="fadeIn" swiper-animate-duration="1s" swiper-animate-delay="1s"><p>不要因为走得太远</p></div>
+	        	<div class="two-motto2 ani" swiper-animate-effect="fadeIn" swiper-animate-duration="1s" swiper-animate-delay="2s"><p>就忘记当初为什么出发</p></div>
+	        	<div class="two-page ani" swiper-animate-effect="fadeInDown" swiper-animate-duration="0.5s" swiper-animate-delay="3.5s"><p>教育经历</p></div>
+	        </div>
+	        <div class="swiper-slide">
+	        	2222222222222
+	        </div>
+	        <div class="swiper-slide">
+	        	333333333333
+	        </div>
+	        <div class="swiper-slide">
+	        	444444444444
+	        </div>
+	        <div class="swiper-slide">
+	        	55555555555555555
+	        </div>
+	    </div>
+	    <!-- 如果需要分页器 -->
+	    <div class="swiper-pagination"></div>

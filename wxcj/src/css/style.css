@@ -1,0 +1,116 @@
+require('./com/animate.min');
+require('./com/swiper-3.3.1.min');
+
+*{margin:0;padding:0;}
+html,body{
+	width:100%;
+	height:100%;
+}
+.swiper-container,.swiper-wrapper{
+	width:100%;
+	height:100%
+}
+.one{
+	background: url(../../img/0.jpg) no-repeat;
+	background-size:100% 100%;
+	position:relative;
+}
+.one1{
+	width:80%;
+	height:30%;
+	margin:20% 10% 0 10%;
+	position:absolute;
+	z-index: 1;
+}
+.one2{
+	width:70%;
+	height:30%;
+	margin:25% 15% 0 15%;
+	position:absolute;
+	z-index: 1;
+}
+.one3{
+	width:40%;
+	height:40%;
+	position:absolute;
+	margin:78% 30% 0 30%;
+}
+.one-jianli{
+	position:absolute;
+	margin:52% 29% 0 29%;
+	z-index: 2;
+	font-weight: bold;
+}
+.one-jianli1{
+	position:absolute;
+	margin:68% 40% 0 40%;
+	z-index: 2;
+	font-size:70%;
+	font-weight: bold;
+}
+.one-name{
+	position:absolute;
+	bottom: 15%;
+	left: 42%;
+	font-size:80%;
+	color:#ccc;
+}
+.two{
+	background:url(../../img/2-2.jpg) no-repeat;
+	background-size:100% 100%;
+	position:relative;
+}
+.two1{
+	width:34%;
+	height:34%;
+	position:absolute;
+	margin:20% 35% 0 35%;
+}
+.two-name{
+	position:absolute;
+	top:40%;
+	left: 43%;
+	font-size:80%;
+	color:#ccc;
+}
+.two-site{
+	position:absolute;
+	top:50%;
+	left: 43%;
+	font-size:80%;
+	color:#ccc;
+}
+.two-motto1{
+	position:absolute;
+	top:60%;
+	left: 25%;
+	font-size:60%;
+	color:#ccc;
+}
+.two-motto2{
+	position:absolute;
+	top:65%;
+	left:18%;
+	font-size:60%;
+	color:#ccc;
+}
+.two-page{
+	position:absolute;
+	bottom:10%;
+	left:38%;
+	font-size:60%;
+	color:#ccc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
